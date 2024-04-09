@@ -8,12 +8,13 @@ body {
     font-family: Arial, sans-serif;
 }
 .calculator {
-    width: 300px;
+    width: 400px;
     margin: 50px auto;
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 20px;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+
 }
 input[type="button"] {
     width: 60px;
@@ -29,7 +30,7 @@ input[type="button"]:hover {
     background-color: #f0f0f0;
 }
 input[type="text"] {
-    width: 100%;
+    width: 80%;
     margin-bottom: 10px;
     padding: 10px;
     font-size: 18px;
